@@ -1,0 +1,8 @@
+cities/node_modules/
+cities/.env
+cities/package-lock.json
+colors/node_modules/
+colors/.env
+colors/package-lock.json
+gateway/node_modules/
+gateway/package-lock.json
